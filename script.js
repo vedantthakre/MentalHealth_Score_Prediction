@@ -3,7 +3,7 @@
 
   // Point this at your own backend. Use your local server while developing,
   // and swap in your deployed URL once you host the API somewhere.
-  const API_BASE = "https://mentalhealth-score-prediction.onrender.com/";
+  const API_BASE = "https://mentalhealth-score-prediction.onrender.com";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
